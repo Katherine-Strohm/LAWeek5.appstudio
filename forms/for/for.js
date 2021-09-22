@@ -1,4 +1,4 @@
-let names = [“Bob”, “Janet”, “Tom”, “Erin”, “Lucy”, “Alyssa”, “Dustin”]
+let names = ["Bob", "Janet", "Tom", "Erin", "Lucy", "Alyssa", "Dustin"]
 
 
 
